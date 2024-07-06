@@ -1,6 +1,6 @@
 # Deploying-a-React-web-application
 
-Deploying a React web application on an Ubuntu server involves several steps, including setting up the server, building the React application, and configuring a web server to serve the application. Below is a step-by-step guide to help you through the process:
+Deploying a React web application on an Ubuntu server involves several steps, including setting up the server, building the React application, and configuring a web server to serve the application. Below is a step-by-step guide to help you through the process: [](https://chatgpt.com/share/9cadf465-f67c-4b03-84aa-3fc7d01abc2f)
 
 ### Step 1: Prepare the Ubuntu Server
 
